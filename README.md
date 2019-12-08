@@ -6,6 +6,8 @@ Audio Recorder is a project suitable for beginner in Android Studio. This app ca
 
 Demo can be found above.
 
+![SystemArch](Screen Shot 2019-12-07.png)
+
 # Reference
 https://www.youtube.com/watch?v=I6NFW0OqPwY
 
